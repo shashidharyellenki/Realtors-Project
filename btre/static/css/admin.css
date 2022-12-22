@@ -1,0 +1,22 @@
+#header{
+height:50px;
+
+background-color: #10284e;
+}
+#branding h1{
+    color:#fff;
+}
+div.breadcrumbs{
+background: #30caa0;
+color:blue;
+
+}
+div.breadcrumbs a{
+    color:#000;
+}
+.module caption, .inline-group h2 {
+    background: #30caa0;
+    color:blue;
+    font-weight: bold;
+}
+/* to know about the id and classes of the admin html go to the devoloper tools */
